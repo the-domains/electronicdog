@@ -4,8 +4,22 @@
         <description><![CDATA[Ecommerce Unlimited.]]></description>
         <link>https://thegrid.ai/electronicdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 21:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 21:26:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/electronicdog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f7cd2ab-14d6-4bef-8a2a-9181b3530341.jpg">]]></description>
+            <link>https://thegrid.ai/electronicdog/a-strategic-creative-partner-in-your-journey-from-surviving/index.html</link>
+            <guid isPermaLink="false">857dbb4a-4e2d-40d3-b997-651b828c5c85</guid>
+            <pubDate>Wed, 11 May 2016 21:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ONCE UPON A TIME...</p>]]></description>
+            <link>https://thegrid.ai/electronicdog/once-upon-a-time/index.html</link>
+            <guid isPermaLink="false">86a38241-9054-4531-91ca-b2f5c4fbe07f</guid>
+            <pubDate>Wed, 11 May 2016 21:23:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HELPING BRANDS TO OUT PERFORM ALL EXPECTATION AND THRIVE IN AN EVER EVOLVING ECOMMERCE ECOSYSTEM.</p>]]></description>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/electronicdog/we-dont-just-design-you-a-pretty-store-front-and-wave-you-on/index.html</link>
             <guid isPermaLink="false">37e55c47-9131-4262-92fa-b472129bae8b</guid>
             <pubDate>Wed, 11 May 2016 21:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A STRATEGIC CREATIVE PARTNER IN YOUR JOURNEY FROM SURVIVING TO THRIVING IN THE ECOMMERCE BUSINESS</p>]]></description>
-            <link>https://thegrid.ai/electronicdog/a-strategic-creative-partner-in-your-journey-from-surviving/index.html</link>
-            <guid isPermaLink="false">857dbb4a-4e2d-40d3-b997-651b828c5c85</guid>
-            <pubDate>Wed, 11 May 2016 21:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
