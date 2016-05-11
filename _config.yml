@@ -1,7 +1,7 @@
 name: Electronicdog
 favicon: null
-layout_spectrum: 0.12322795717045665
-typography_spectrum: 0.5954125635325909
+layout_spectrum: 1
+typography_spectrum: 0.29433
 title: Ecommerce Unlimited.
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.058915015775710344
+  brandStrength: 0.125
   lightness: 0.38655677856877446
   saturation: 0.5290006250143051
   rhythmicContrast: 0.8266851515509188
