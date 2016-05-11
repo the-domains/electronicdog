@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Electronicdog]]></title>
+        <description><![CDATA[Electronicdog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 21:18:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A STRATEGIC CREATIVE PARTNER IN YOUR JOURNEY FROM SURVIVING TO THRIVING IN THE ECOMMERCE BUSINESS</p>]]></description>
+            <link>undefineda-strategic-creative-partner-in-your-journey-from-surviving/index.html</link>
+            <guid isPermaLink="false">857dbb4a-4e2d-40d3-b997-651b828c5c85</guid>
+            <pubDate>Wed, 11 May 2016 21:18:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
